@@ -104,4 +104,4 @@ If any of this resonates — whether you've got a Python backend that needs a st
 - 🇸🇰 **Phone (Slovakia):** +421951908019
 - 💼 **LinkedIn:** https://www.linkedin.com/in/oleksiitarasiuk/
 
-I'm happy to send a CV, jump on a call, or just nerd out about an interesting problem. ☕
+I'll be happy to answer your email, jump on a call, or just chat about your project or any interesting topic. ☕
